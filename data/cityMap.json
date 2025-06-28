@@ -34837,6 +34837,18 @@
     "timezone": "Asia/Kolkata"
   },
   {
+    "city": "Gurugram",
+    "city_ascii": "Gurugram",
+    "lat": 28.45000633,
+    "lng": 77.01999101,
+    "pop": 197340,
+    "country": "India",
+    "iso2": "IN",
+    "iso3": "IND",
+    "province": "Haryana",
+    "timezone": "Asia/Kolkata"
+  },
+  {
     "city": "Sonipat",
     "city_ascii": "Sonipat",
     "lat": 28.9999986,
@@ -35257,6 +35269,18 @@
     "timezone": "Asia/Kolkata"
   },
   {
+    "city": "Rajamahendravaram",
+    "city_ascii": "Rajamahendravaram",
+    "lat": 17.03034161,
+    "lng": 81.78998409,
+    "pop": 304804,
+    "country": "India",
+    "iso2": "IN",
+    "iso3": "IND",
+    "province": "Andhra Pradesh",
+    "timezone": "Asia/Kolkata"
+  },
+  {
     "city": "Machilipatnam",
     "city_ascii": "Machilipatnam",
     "lat": 16.20041811,
@@ -35425,6 +35449,18 @@
     "timezone": "Asia/Kolkata"
   },
   {
+    "city": "Shivamogga",
+    "city_ascii": "Shivamogga",
+    "lat": 13.93037579,
+    "lng": 75.56002844,
+    "pop": 486802.5,
+    "country": "India",
+    "iso2": "IN",
+    "iso3": "IND",
+    "province": "Karnataka",
+    "timezone": "Asia/Kolkata"
+  },
+  {
     "city": "Raichur",
     "city_ascii": "Raichur",
     "lat": 16.21036582,
@@ -35439,6 +35475,18 @@
   {
     "city": "Hospet",
     "city_ascii": "Hospet",
+    "lat": 15.28039675,
+    "lng": 76.37501745,
+    "pop": 241926.5,
+    "country": "India",
+    "iso2": "IN",
+    "iso3": "IND",
+    "province": "Karnataka",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "city": "Hosapete",
+    "city_ascii": "Hosapete",
     "lat": 15.28039675,
     "lng": 76.37501745,
     "pop": 241926.5,
@@ -35499,6 +35547,18 @@
   {
     "city": "Port Blair",
     "city_ascii": "Port Blair",
+    "lat": 11.66702557,
+    "lng": 92.73598262,
+    "pop": 119806,
+    "country": "India",
+    "iso2": "IN",
+    "iso3": "IND",
+    "province": "Andaman and Nicobar",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "city": "Sri Vijaya Puram",
+    "city_ascii": "Sri Vijaya Puram",
     "lat": 11.66702557,
     "lng": 92.73598262,
     "pop": 119806,
@@ -35679,6 +35739,18 @@
   {
     "city": "Faizabad",
     "city_ascii": "Faizabad",
+    "lat": 26.75039431,
+    "lng": 82.17001257,
+    "pop": 153047,
+    "country": "India",
+    "iso2": "IN",
+    "iso3": "IND",
+    "province": "Uttar Pradesh",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "city": "Ayodhya",
+    "city_ascii": "Ayodhya",
     "lat": 26.75039431,
     "lng": 82.17001257,
     "pop": 153047,
@@ -35883,6 +35955,18 @@
   {
     "city": "Aurangabad",
     "city_ascii": "Aurangabad",
+    "lat": 24.7704118,
+    "lng": 84.38000688,
+    "pop": 95929,
+    "country": "India",
+    "iso2": "IN",
+    "iso3": "IND",
+    "province": "Bihar",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "city": "Chhatrapati Sambhajinagar",
+    "city_ascii": "Chhatrapati Sambhajinagar",
     "lat": 24.7704118,
     "lng": 84.38000688,
     "pop": 95929,
@@ -36457,6 +36541,18 @@
     "timezone": "Asia/Kolkata"
   },
   {
+    "city": "Tumakuru",
+    "city_ascii": "Tumakuru",
+    "lat": 13.32997316,
+    "lng": 77.1000378,
+    "pop": 353482.5,
+    "country": "India",
+    "iso2": "IN",
+    "iso3": "IND",
+    "province": "Karnataka",
+    "timezone": "Asia/Kolkata"
+  },
+  {
     "city": "Davangere",
     "city_ascii": "Davangere",
     "lat": 14.47000694,
@@ -36481,8 +36577,32 @@
     "timezone": "Asia/Kolkata"
   },
   {
+    "city": "Ballari",
+    "city_ascii": "Ballari",
+    "lat": 15.15004295,
+    "lng": 76.91503617,
+    "pop": 391034.5,
+    "country": "India",
+    "iso2": "IN",
+    "iso3": "IND",
+    "province": "Karnataka",
+    "timezone": "Asia/Kolkata"
+  },
+  {
     "city": "Belgaum",
     "city_ascii": "Belgaum",
+    "lat": 15.86501223,
+    "lng": 74.5050024,
+    "pop": 609472.5,
+    "country": "India",
+    "iso2": "IN",
+    "iso3": "IND",
+    "province": "Karnataka",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "city": "Belagavi",
+    "city_ascii": "Belagavi",
     "lat": 15.86501223,
     "lng": 74.5050024,
     "pop": 609472.5,
@@ -36603,6 +36723,18 @@
   {
     "city": "Allahabad",
     "city_ascii": "Allahabad",
+    "lat": 25.45499534,
+    "lng": 81.84000688,
+    "pop": 1137219,
+    "country": "India",
+    "iso2": "IN",
+    "iso3": "IND",
+    "province": "Uttar Pradesh",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "city": "Prayagraj",
+    "city_ascii": "Prayagraj",
     "lat": 25.45499534,
     "lng": 81.84000688,
     "pop": 1137219,
@@ -36805,6 +36937,18 @@
     "timezone": "Asia/Kolkata"
   },
   {
+    "city": "Hubballi",
+    "city_ascii": "Hubballi",
+    "lat": 15.35997845,
+    "lng": 75.12501623,
+    "pop": 841402,
+    "country": "India",
+    "iso2": "IN",
+    "iso3": "IND",
+    "province": "Karnataka",
+    "timezone": "Asia/Kolkata"
+  },
+  {
     "city": "Mangalore",
     "city_ascii": "Mangalore",
     "lat": 12.90002525,
@@ -36817,8 +36961,32 @@
     "timezone": "Asia/Kolkata"
   },
   {
+    "city": "Mangaluru",
+    "city_ascii": "Mangaluru",
+    "lat": 12.90002525,
+    "lng": 74.84999426,
+    "pop": 597009.5,
+    "country": "India",
+    "iso2": "IN",
+    "iso3": "IND",
+    "province": "Karnataka",
+    "timezone": "Asia/Kolkata"
+  },
+  {
     "city": "Mysore",
     "city_ascii": "Mysore",
+    "lat": 12.30998374,
+    "lng": 76.66001298,
+    "pop": 877656.5,
+    "country": "India",
+    "iso2": "IN",
+    "iso3": "IND",
+    "province": "Karnataka",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "city": "Mysuru",
+    "city_ascii": "Mysuru",
     "lat": 12.30998374,
     "lng": 76.66001298,
     "pop": 877656.5,
@@ -36975,6 +37143,18 @@
   {
     "city": "Raipur",
     "city_ascii": "Raipur",
+    "lat": 21.23499453,
+    "lng": 81.63500647,
+    "pop": 777497.5,
+    "country": "India",
+    "iso2": "IN",
+    "iso3": "IND",
+    "province": "Chhattisgarh",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "city": "Atal Nagar",
+    "city_ascii": "Atal Nagar",
     "lat": 21.23499453,
     "lng": 81.63500647,
     "pop": 777497.5,
@@ -37311,6 +37491,18 @@
   {
     "city": "Bangalore",
     "city_ascii": "Bangalore",
+    "lat": 12.96999514,
+    "lng": 77.56000972,
+    "pop": 5945523.5,
+    "country": "India",
+    "iso2": "IN",
+    "iso3": "IND",
+    "province": "Karnataka",
+    "timezone": "Asia/Kolkata"
+  },
+  {
+    "city": "Bengaluru",
+    "city_ascii": "Bengaluru",
     "lat": 12.96999514,
     "lng": 77.56000972,
     "pop": 5945523.5,
